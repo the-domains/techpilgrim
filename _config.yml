@@ -1,0 +1,23 @@
+name: TechPilgrim
+favicon: null
+layout_spectrum: 0.45451076817698777
+typography_spectrum: 0.8826018462423235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.060456317849457264
+  lightness: 0.9703444321639836
+  saturation: 0.46652327035553753
+  rhythmicContrast: 0.2930747871287167
+purpose: []
